@@ -122,7 +122,7 @@ Distribuído sob a licença **ISC**.
 
 
 
-## 🙋 Autor
+## 👨‍💻 Autor
 
 Feito com ☕ + 💚 por mim
 
