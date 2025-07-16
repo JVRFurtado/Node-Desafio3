@@ -52,7 +52,7 @@ project-qrcode/
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/project-qrcode.git
+git clone https://github.com/JVRFurtado/Node-Desafio3.git
 cd project-qrcode
 
 # 2. Instale as dependências
